@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">I Am Poor</string>
+    <string name="app_name">Am I Poor?</string>
+    <string name="Text_View">Bet you can poor I am</string>
 </resources>
